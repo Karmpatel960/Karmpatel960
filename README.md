@@ -4,7 +4,7 @@
 - <b>✌ I'm <a href="https://twitter.com/karmstwt">Karm Patel</a></b>
 - 👀 I’m interested in Opensource,Devops,Development.
 - 🌱 I’m currently learning HTML ,CSS,JS
-- 📫 You can reach me on Twitter @karmstwt
+- 📫 You can reach me on Twitter <a href="https://twitter.com/karmstwt">@karmstwt</a>
 
 <!---
 Karmpatel960/Karmpatel960 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
