@@ -16,6 +16,11 @@ You can click the Preview link to take a look at your changes.
 [![karmpatel960's github activity graph](https://activity-graph.herokuapp.com/graph?username=karmpatel960&bg_color=ffffff&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---------------
+# Holopin Badge
+
+[![@karmpatel960's Holopin board](https://holopin.me/karmpatel960)](https://holopin.io/@karmpatel960)
+
+--------------
 # Github Stats
 [![karmpatel960's GitHub stats](https://github-readme-stats.vercel.app/api?username=karmpatel960&show_icons=true&theme=dark)](https://github.com/karmpatel960/github-readme-stats)
 
