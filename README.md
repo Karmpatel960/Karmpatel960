@@ -6,10 +6,6 @@
 - 🌱 I’m currently learning HTML ,CSS,JS
 - 📫 You can reach me on Twitter <a href="https://twitter.com/karmstwt">@karmstwt</a>
 
-<!---
-Karmpatel960/Karmpatel960 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 <!-- ---------------
  # Github activity graph
