@@ -7,10 +7,6 @@
 - 📫 You can reach me on Twitter <a href="https://twitter.com/karmstwt">@karmstwt</a>
 
 
-<!-- 
- # Github activity graph
-[![karmpatel960's github activity graph](https://activity-graph.herokuapp.com/graph?username=karmpatel960)](https://github.com/karmpatel960/github-readme-activity-graph)
- -->
 --------------- 
 # Holopin Badge
 
