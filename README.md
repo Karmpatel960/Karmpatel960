@@ -12,7 +12,7 @@
 
 [![@karmpatel960's Holopin board](https://holopin.me/karmpatel960)](https://holopin.io/@karmpatel960)
 
---------------
+<!-- --------------
 # Github Stats
 [![karmpatel960's GitHub stats](https://github-readme-stats.vercel.app/api?username=karmpatel960&show_icons=true&theme=dark)](https://github.com/karmpatel960/github-readme-stats)
 
@@ -21,4 +21,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karmpatel960&theme=dark)](https://github.com/karmpatel960/github-readme-stats)           
 
 
--------------
+------------- -->
