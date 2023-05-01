@@ -15,11 +15,10 @@
  --------------
 # Github Stats
 ![Karm's GitHub stats](https://github-readme-stats.vercel.app/api?username=karmpatel960&show_icons=true&theme=radical)
-<!--
---------------
-# Most  Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karmpatel960&theme=dark)](https://github.com/karmpatel960/github-readme-stats)           
--->
 
-------------- 
+<!-- --------------
+# Most  Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karmpatel960&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+-------------  -->
 
