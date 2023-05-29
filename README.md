@@ -1,4 +1,4 @@
-<h1 align="center">  Hello, folks! <b width="40px">✌ I'm <a href="https://bio.link/karmpatel">Karm Patel</a></b>
+<h1 align="center">  Hello, folks! <b width="40px">I'm <a href="https://bio.link/karmpatel">Karm Patel</a></b>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
 </h1>
 
