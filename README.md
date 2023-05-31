@@ -3,7 +3,7 @@
 </h1>
 
 
-- 👀 I’m interested in Opensource,Devops,Development.
+- 👀 I’m interested in Opensource,Devops,Development
 - 🌱 I’m currently learning JS,Cloud,Python
 - 📫 You can reach me on Twitter <a href="https://twitter.com/karmstwt">@karmstwt</a>
 
