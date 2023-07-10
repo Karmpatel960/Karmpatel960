@@ -1,5 +1,5 @@
 <h1 align="center">  Hello, folks! <b width="40px">I'm <a href="https://bio.link/karmpatel">Karm Patel</a></b>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
+<img src="https://gist.github.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f#file-hi-gif" width="40px">
 </h1>
 
 
