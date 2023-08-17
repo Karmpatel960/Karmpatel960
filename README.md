@@ -29,7 +29,7 @@
 
 - 📫 How to reach me **Karmpatel960@gmail.com**
 
-### Blogs posts
+### Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Launching an EC2 Instance with an Image on AWS: A Step-by-Step Guide](https://blogwithkarm.hashnode.dev/launching-an-ec2-instance-with-an-image-on-aws-a-step-by-step-guide)
 - [A Step-by-Step Guide to Deploying a Static Website on AWS S3](https://blogwithkarm.hashnode.dev/a-step-by-step-guide-to-deploying-a-static-website-on-aws-s3)
