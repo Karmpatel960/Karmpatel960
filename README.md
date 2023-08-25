@@ -45,7 +45,7 @@
 <a href="https://hashnode.com/@karmpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@karmpatel" height="30" width="40" /></a>
 <a href="https://medium.com/@karmpatel960" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@karmpatel960" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/karmpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karmpatel" height="30" width="40" /></a>
-<a href="/https://blogwithkarm.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blogwithkarm.hashnode.dev/rss.xml" height="30" width="40" /></a>
+  <!--/* <a href="/https://blogwithkarm.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blogwithkarm.hashnode.dev/rss.xml" height="30" width="40" /></a> */-->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
