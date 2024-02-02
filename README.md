@@ -31,7 +31,7 @@
 
 ### Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Project - auto-blog-publish-action Summary - Issue #1](https://blogwithkarm.hashnode.dev/project-auto-blog-publish-action-summary-issue-1-1-1)
+- [Project - auto-blog-publish-action Summary - Issue #1](https://blogwithkarm.hashnode.dev/project-auto-blog-publish-action-summary-issue-1-1)
 - [Project - auto-blog-publish-action Summary - Issue #1](https://blogwithkarm.hashnode.dev/project-auto-blog-publish-action-summary-issue-1)
 - [Launching an EC2 Instance with an Image on AWS: A Step-by-Step Guide](https://blogwithkarm.hashnode.dev/launching-an-ec2-instance-with-an-image-on-aws-a-step-by-step-guide)
 - [A Step-by-Step Guide to Deploying a Static Website on AWS S3](https://blogwithkarm.hashnode.dev/a-step-by-step-guide-to-deploying-a-static-website-on-aws-s3)
