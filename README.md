@@ -31,10 +31,10 @@
 
 ### Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Project - hostelkube-admin Summary - Issue #1](https://blogwithkarm.hashnode.dev/project-hostelkube-admin-summary-issue-1)
+- [Project - auto-blog-publish-action Summary - Issue #1](https://blogwithkarm.hashnode.dev/project-auto-blog-publish-action-summary-issue-1-1-1-1-1-1)
 - [Project - auto-blog-publish-action Summary - Issue #1](https://blogwithkarm.hashnode.dev/project-auto-blog-publish-action-summary-issue-1-1-1-1-1)
 - [Project - auto-blog-publish-action Summary - Issue #1](https://blogwithkarm.hashnode.dev/project-auto-blog-publish-action-summary-issue-1-1-1-1)
-- [Project - auto-blog-publish-action Summary - Issue #1](https://blogwithkarm.hashnode.dev/project-auto-blog-publish-action-summary-issue-1-1-1)
-- [Project - auto-blog-publish-action Summary - Issue #1](https://blogwithkarm.hashnode.dev/project-auto-blog-publish-action-summary-issue-1-1)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
