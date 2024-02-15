@@ -31,10 +31,10 @@
 
 ### Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Project - auto-blog-publish-action Summary - Issue #1](https://blogwithkarm.hashnode.dev/project-auto-blog-publish-action-summary-issue-1)
 - [Project - hostelkube-admin Summary - Issue #1](https://blogwithkarm.hashnode.dev/project-hostelkube-admin-summary-issue-1-1)
 - [Project - hostelkube-admin Summary - Issue #1](https://blogwithkarm.hashnode.dev/project-hostelkube-admin-summary-issue-1)
 - [Commit Summary GitHub Actions Project : Commit-Actions](https://blogwithkarm.hashnode.dev/commit-summary-github-actions-project-commit-actions)
-- [Launching an EC2 Instance with an Image on AWS: A Step-by-Step Guide](https://blogwithkarm.hashnode.dev/launching-an-ec2-instance-with-an-image-on-aws-a-step-by-step-guide)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
