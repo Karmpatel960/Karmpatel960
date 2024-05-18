@@ -1,7 +1,7 @@
 # Hi 👋, I'm Karm Patel
 A passionate Developer Exploring DevOps Engineering and Fullstack Development
 
-🔭 I’m currently working on [HostelKube](https://github.com/Karmpatel960/HostelKube)
+🔭 I’m currently working on [HostelKube](https://github.com/Karmpatel960/HostelKube) & [EcoGoods](https://github.com/Karmpatel960/EcoGoods)
 
 🌱 I’m currently learning **Redux, Kubernetes, AWS**
 
